@@ -17,12 +17,6 @@
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
-    },
-    {
-      "name": "Valery",
-      "description": "scsssc",
-      "element": "wind",
-      "id": "6475a2c6-acd2-4532-a250-fbcf5dad90be"
     }
   ],
   "filters": [
